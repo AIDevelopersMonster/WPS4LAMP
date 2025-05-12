@@ -137,5 +137,4 @@ sudo mysql -e "DROP DATABASE wp_my_site_local;"
 
 ---
 
-Хочешь, я создам `.zip` или сразу залью в структуру репозитория с `install_wp.sh`, `README.md`, и примером `wp_sites.log`?
-```
+
